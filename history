@@ -1,0 +1,436 @@
+    1  git config --global user.name "Naveen Silvester"
+    2  git config --global user.email "silvester.naveen@gmail.com"
+    3  git config --list
+    4  exit
+    5  git user.name
+    6  git config -- list
+    7  git config --list
+    8  git config --global user.name "NaveenSilvester"
+    9  git config --global user.email "silvester.naveen@gmail.com"
+   10  git config --list
+   11  exit
+   12  pwd
+   13  mkdir datasciencecoursera
+   14  cd datasciencecoursera/
+   15  git init
+   16  git remote add origin https://github.com/NaveenSilvester/datasciencecoursera.git
+   17  git clone https://github.com/NaveenSilvester/datasciencecoursera.git
+   18  pwd
+   19  dir
+   20  ls
+   21  cd datasciencecoursera/
+   22  ls
+   23  pwd
+   24  cd ..
+   25  exit
+   26  pwd
+   27  git clone origin https://github.com/NaveenSilvester/datasciencecoursera.git
+   28  git init
+   29  git remote add origin https://github.com/NaveenSilvester/datasciencecoursera.git
+   30  git clone https://github.com/NaveenSilvester/datasciencecoursera.git
+   31  pwd
+   32  cd datasciencecoursera/
+   33  git add -A
+   34  git push
+   35  git push
+   36  git push
+   37  git commit -m "HelloWorld"
+   38  git push
+   39  git push
+   40  pwd
+   41  git add .
+   42  git commit -m "HelloWorld"
+   43  git push
+   44  git branch
+   45  pwd
+   46  git init
+   47  exit
+   48  git config
+   49  git config - list
+   50  git config --list
+   51  cd ..
+   52  pwd
+   53  dir
+   54  ls
+   55  cd ssnave
+   56  ls
+   57  git init
+   58  git remote add origin https://github.com/NaveenSilvester/Getting_and_Cleaning_Data.git
+   59  git clone https://github.com/NaveenSilvester/Getting_and_Cleaning_Data.git
+   60  git remote add origin https://github.com/NaveenSilvester/Getting_and_Cleaning_Data.git
+   61  git clone https://github.com/NaveenSilvester/Getting_and_Cleaning_Data.git
+   62  pwd
+   63  cd Getting_and_Cleaning_Data/
+   64  git add -A
+   65  git add -A
+   66  git -commit "Data21May2015"
+   67  pwd
+   68  git push
+   69  git push
+   70  pwd
+   71  cd ..
+   72  git push
+   73  git push
+   74  cd Getting_and_Cleaning_Data/
+   75  git push
+   76  git push
+   77  git config --global push.default matching
+   78  git add -A
+   79  git push
+   80  git push
+   81  git push
+   82  git commit -m 'First commit'
+   83  git remote add origin https://github.com/NaveenSilvester/Getting_and_Cleaning_Data
+   84  git push
+   85  git init
+   86  git add .
+   87  git commit -m 'Second Commit'
+   88  git push origin master
+   89  git commit -m 'run_analysis.R Commit'
+   90  git commit -m 'run_analysis Commit'
+   91  git push origin master
+   92  exit
+   93  cd Getting_and_Cleaning_Data/
+   94  git init
+   95  git add .
+   96  git commit -m 'run_analysis.R commit'
+   97  git push
+   98  git init
+   99  git add .
+  100  git commit -m 'README.md commit'
+  101  git push
+  102  git commit -m 'CodeBook.md commit'
+  103  git add .
+  104  git commit -m 'CodeBook.md commit'
+  105  git push
+  106  git add .
+  107  git add .
+  108  git push
+  109  git add .
+  110  git commit -m 'removed ReadMe.txt' commit
+  111  git commit -m 'removed ReadMe.txt'
+  112  git add -A
+  113  git commit -m 'removed ReadMe.txt'
+  114  git push
+  115  exit
+  116  cd Developing_Data_Products/
+  117  git init
+  118  git add .
+  119  git commit - m 'First commit'
+  120  git remote add origin 
+  121  git add .
+  122  git remote add origin 
+  123  git init
+  124  git add .
+  125  git commit -m 'First Commit'
+  126  git remote add origin
+  127  git remote add origin Developing_Data_Products
+  128  git remote add origin Developing_Data_Products.git
+  129  git push origin
+  130  git push origin Developing_Data_Products
+  131  exit
+  132  pwd
+  133  ls
+  134  cd Developing_Data_Products/
+  135  git init
+  136  git add -A
+  137  git add --A
+  138  git add -A
+  139  git commit -m 'First Commit'
+  140  git remote add origin Developing_Data_Products
+  141  git remote add origin Developing_Data_Products
+  142  git remote add origin Developing_Data_Products
+  143  logout
+  144  pwd
+  145  cd /Developing_Data_
+  146  cd /Developing_Data_Products
+  147  ls
+  148  git --- config
+  149  git --config
+  150  git ---list
+  151  ls
+  152  cd Developing_Data_Products/
+  153  git init
+  154  git add .
+  155  git commit -m 'First Commit'
+  156  git remote add origin 
+  157  git remote add origin  Developing_Data_Products
+  158  git remote add origin https://github.com/NaveenSilvester/Developing_Data_Products
+  159  git remote add origin https://github.com/NaveenSilvester/Developing_Data_Products.git
+  160  git push origin master
+  161  git push origin
+  162  git push origin https://github.com/NaveenSilvester/Developing_Data_Products
+  163  git push origin https://github.com/NaveenSilvester/Developing_Data_Products
+  164  git push https://github.com/NaveenSilvester/Developing_Data_Products.git
+  165  git push https://github.com/NaveenSilvester/Developing_Data_Products.git
+  166  git push https://github.com/NaveenSilvester/Developing_Data_Products.git
+  167  git -- config
+  168  git --list
+  169  git config --list
+  170  git push https://github.com/NaveenSilvester/Developing_Data_Products.git
+  171  git push https://github.com/NaveenSilvester/Developing_Data_Products.git
+  172  logout
+  173  cd /Developing_Data_Products
+  174  ls
+  175  cd ./Developing_Data_Products/
+  176  git init
+  177  git add .
+  178  git commit -m "First Commit"
+  179  git push https://github.com/NaveenSilvester/Developing_Data_Products.git
+  180  git push https://github.com/NaveenSilvester/Developing_Data_Products.git
+  181  git push https://github.com/NaveenSilvester/Developing_Data_Products
+  182  git push https://github.com/NaveenSilvester/Developing_Data_Products
+  183  git remote add origin https://github.com/NaveenSilvester/Developing_Data_Products.git
+  184  git push -u origin master
+  185  exit
+  186  git ./Developing_Data_Products
+  187  git init
+  188  git add .
+  189  git commit -m "First Commit"
+  190  git add -A
+  191  git commit -m "First Commit"
+  192  git remote add https://github.com/NaveenSilvester/Developing_Data_Products.git
+  193  git remote add origin https://github.com/NaveenSilvester/Developing_Data_Products.git
+  194  git push -u origin master
+  195  git remote add origin https://github.com/NaveenSilvester/Developing_Data_Products.git
+  196  git push https://github.com/NaveenSilvester/Developing_Data_Products
+  197  git add .
+  198  git push https://github.com/NaveenSilvester/Developing_Data_Products
+  199  git init
+  200  git add -A
+  201  git commit -m "First Commit"
+  202  git push https://github.com/NaveenSilvester/Developing_Data_Products
+  203  git add .
+  204  git push https://github.com/NaveenSilvester/Developing_Data_Products.git
+  205  git add origin https://github.com/NaveenSilvester/Developing_Data_Products.git
+  206  git remote add origin https://github.com/NaveenSilvester/Developing_Data_Products.git
+  207  pwd
+  208  cd ./Developing_Data_Products
+  209  pwd
+  210  git add origin https://github.com/NaveenSilvester/Developing_Data_Products.git
+  211  git push https://github.com/NaveenSilvester/Developing_Data_Products.git
+  212  git add .
+  213  git commit -m "First commit"
+  214  git push https://github.com/NaveenSilvester/Developing_Data_Products.git
+  215  git add .
+  216  git commit -m "First commit"
+  217  git add origin https://github.com/NaveenSilvester/Developing_Data_Products.git
+  218  git add origin https://github.com/NaveenSilvester/
+  219  git add
+  220  git remote add origin https://github.com/NaveenSilvester
+  221  git remote add origin https://github.com/NaveenSilvester/
+  222  git remote add https://github.com/NaveenSilvester/
+  223  git remote add https://github.com/NaveenSilvester/Developing_Data_Products
+  224  git remote add https://github.com/NaveenSilvester/Developing_Data_Products.git
+  225  git remote -v
+  226  git remote -v
+  227  git remote -v
+  228  git init
+  229  cd ..
+  230  git init
+  231  cd ./Developing_Data_Products/
+  232  git init
+  233  git add .
+  234  git remote add origin https://github.com/NaveenSilvester/Developing_Data_Products.git
+  235  git push origin master
+  236  git push https://github.com/NaveenSilvester/Developing_Data_Products.git
+  237  git push https://github.com/NaveenSilvester/Developing_Data_Products.git
+  238  pwd
+  239  git init
+  240  git add -A
+  241  git push https://github.com/NaveenSilvester/Developing_Data_Products.git
+  242  git add -A
+  243  git commit -m "First Commit"
+  244  git push https://github.com/NaveenSilvester/Developing_Data_Products.git
+  245  git checkout master
+  246  git push origin +HEAD
+  247  cd ...
+  248  cd ..
+  249  cd MyCalculator/
+  250  git init
+  251  git init
+  252  git commit -m "First Commit"
+  253  git add .
+  254  git commit -m "First Commit"
+  255  git remote add origin "https://github.com/NaveenSilvester/MyCalculator.git"
+  256  git push -u origin master
+  257  git remote add origin https://github.com/NaveenSilvester/MyCalculator.git
+  258  git push -u origin master
+  259  git commit -m 'First Commit'
+  260  git push origin master
+  261  git init
+  262  git add .
+  263  git commit -m "First commit"
+  264  git push -u origin master
+  265  git branch
+  266  git checkout master
+  267  exit
+  268  ls -al ~/ .ssh
+  269  ls -al ~/.ssh
+  270  ssh-keygen -t rsa -b 4096 -C "silvester.naveen@gmail.com"
+  271  ssh - agent -s
+  272  pwd
+  273  exit
+  274  cd ./mydeck
+  275  dir
+  276  cd "C:/users/ssnave/mydeck/mydeck"
+  277  git init
+  278  git add .
+  279  git commit -m 'message'
+  280  git checkout master
+  281  git commit -a -m 'firstcomment'
+  282  git remote add origin 
+  283  git remote add origin repo = git@github.com:NaveenSilvester/mydeck.git
+  284  git remote add origin repo = 'git@github.com:NaveenSilvester/mydeck.git'
+  285  git remote add origin 'git@github.com:NaveenSilvester/mydeck.git'
+  286  git push -u origin master
+  287  git checkout master
+  288  git commit -a -m "MyComments"
+  289  git push origin master
+  290  exit
+  291  ls
+  292  git global
+  293  git --globla
+  294  git --global
+  295  git help
+  296  git help config
+  297  git status
+  298  git 
+  299  git log
+  300  git log --pretty=format
+  301  git log --pretty=format
+  302  git log --pretty
+  303  git log --graph
+  304  git log --realtive-date
+  305  git log --relative-date
+  306  exit
+  307  git help
+  308  pwd
+  309  cd "C:\Users\ssnave\desktop\test1"
+  310  ls
+  311  git init
+  312  ls
+  313  pwd
+  314  git init
+  315  ls
+  316  ls
+  317  cd ..
+  318  exit
+  319  cd "C:\Users\ssnave\desktop\test_1"
+  320  pwd
+  321  git init
+  322  git add myfile.txt
+  323  git commit -m "my first test commit message"
+  324  git log
+  325  cd .
+  326  cd ..
+  327  cd test
+  328  cd test_1
+  329  git init
+  330  git add myfile.txt
+  331  git commit -m "my first commit"
+  332  git log
+  333  cd ..
+  334  git clone git@github.com:NaveenSilvester/demo_df.git
+  335  cd test_1
+  336  ls
+  337  git add myfile.txt
+  338  git log
+  339  git commit -m "second commit"
+  340  git log
+  341  git push -u origin master
+  342  git push -u origin master
+  343  clear
+  344  cd ..
+  345  git clone git@github.com:Naveensilvester/demo_df.git
+  346  git clone git@github.com:Naveensilvester/demo_df.git
+  347  git clone https://github.com:Naveensilvester/demo_df.git
+  348  exit
+  349  pwd
+  350  cd /test2
+  351  git add myfile.txt
+  352  ls
+  353  cd 
+  354  cd "C:/Users/ssnave/desktop/test2
+  355  "
+  356  ls
+  357  ls
+  358  git add myfile.txt
+  359  git commit -m "My first commit"
+  360  git log
+  361  cd ..
+  362  git clone https://github.com/NaveenSilvester/demo_df.git
+  363  cd test2
+  364  pwd
+  365  git push -u origin master
+  366  cd ..
+  367  ls
+  368  git clone https://github.com/NaveenSilvester/demo_df.git
+  369  git clone https://github.com/NaveenSilvester/demo1.git
+  370  cd test2
+  371  ls
+  372  git init
+  373  git log
+  374  git log
+  375  git add myfile.txt
+  376  git commit -m "myfirst commit"
+  377  git log
+  378  cd ..
+  379  git clone https://github.com/NaveenSilvester/demo1.git
+  380  cd test2
+  381  git push -u origin master
+  382  ls - a
+  383  ls - al
+  384  ls
+  385  ls -a
+  386  ls -al
+  387  clear
+  388  exit
+  389  git global
+  390  git --globla
+  391  git --global
+  392  git config --list
+  393  git config --list
+  394  clear
+  395  ls
+  396  pwd
+  397  cd "C:/Users/ssnave/desktop"
+  398  mkdir mytest-repo
+  399  cd mytest-repo
+  400  git init
+  401  git remote add origin https://github.com/NaveenSilvester/mytest-repo.git
+  402  git add mytestfile.txt
+  403  git commit -m "My first commit"
+  404  git log
+  405  git push -u origin master
+  406  git push -u origin master
+  407  git pull 
+  408  ls -la
+  409  git pull 
+  410  git push -u origin master
+  411  git pull https://github.com/NaveenSilvester/mytest-repo.git
+  412  git push -u origin master
+  413  history
+  414  > history
+  415  history >history.txt
+  416  exit
+  417  cd "C:\SSNAVE"
+  418  pwd
+  419  cd "C\ssnave\FY16\DataFluency\The_Data_Scientists_Toolbox\NSY_NOTES"
+  420  cd "C:\SSNAVE\FY16\DataFluency\The_Data_Scientists_Toolbox\NSY_NOTES"
+  421  pwd
+  422  clear
+  423  ls
+  424  mkdir "MyFirstRepo"
+  425  history >History.txt
+  426  cd MyFirstRepo
+  427  git init
+  428  git remote add origin https://github.com/NaveenSilvester/MyFirstRepo.git
+  429  git clone https://github.com/NaveenSilvester/MyFirstRepo.git
+  430  cd "C:\SSNAVE\FY16\DataFluency\The_Data_Scientists_Toolbox\NSY_NOTES\MyFirstRepo\MyFirstRepo"
+  431  git add HelloWorld.txt
+  432  git commit -m "First"
+  433  git push "HelloWorld.txt"
+  434  git push -u origin master
+  435  git push -u origin master
+  436  history >history
